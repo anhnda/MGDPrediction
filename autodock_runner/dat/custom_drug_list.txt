@@ -1,0 +1,67 @@
+ADX10059
+Acetaminophen
+Acetylsalicylic acid 
+Almotriptan
+Amitriptyline
+Atenolol
+Atogepant
+BI 44370 TA
+Botulinum toxin type A
+CNS-5161
+Caffeine
+DP-VPA
+Dihydro-alpha-ergocryptine
+Dihydroergotamine
+Diltiazem
+Dotarizine
+Eletriptan
+Erenumab
+Ergotamine
+Filorexant
+Flumedroxone
+Flunarizine
+Fremanezumab
+Frovatriptan
+GW-274150
+Galcanezumab
+Ibuprofen
+Indomethacin
+Isometheptene
+LY-2300559
+Lasmiditan
+Lisuride
+Lithium cation
+MK-3207
+Methysergide
+NXN-188
+Naratriptan
+Olcegepant
+Pizotifen
+Propranolol
+Protriptyline
+Rimegepant
+Rizatriptan
+Rofecoxib
+Sertraline
+Sumatriptan
+Telcagepant
+Tezampanel
+Timolol
+Tolfenamic acid
+Tonabersat
+Topiramate
+Tramadol
+Trimipramine
+Tryptophan
+Ubidecarenone
+Ubrogepant
+Valproic acid
+Venlafaxine
+Zavegepant
+Zolmitriptan
+Zucapsaicin
+all-trans-retinoic acid
+9-cis-retinoic acid
+4-Oxoretinoic-acid
+4-Hydroxyretinoic acid
+all-trans-18-Hydroxyretinoic acid

@@ -1,0 +1,62 @@
+Tramadol,NA
+Caffeine,NA
+Eletriptan,NA
+Zolmitriptan,NA
+Acetaminophen,NA
+Dihydroergotamine,NA
+Indomethacin,NA
+Rofecoxib,NA
+Sumatriptan,NA
+Almotriptan,NA
+Acetylsalicylic acid ,NA
+Naratriptan,NA
+Rizatriptan,NA
+Frovatriptan,NA
+Ibuprofen,NA
+Olcegepant,NA
+CNS-5161,NA
+NXN-188,NA
+Tezampanel,NA
+Isometheptene,NA
+Zucapsaicin,NA
+Tolfenamic acid,NA
+Lasmiditan,NA
+Telcagepant,NA
+MK-3207,NA
+Ubrogepant,NA
+Zavegepant,NA
+BI 44370 TA,NA
+Botulinum toxin type A,NA
+Tryptophan,NA
+Methysergide,NA
+Topiramate,NA
+Venlafaxine,NA
+Valproic acid,NA
+Amitriptyline,NA
+Atenolol,NA
+Diltiazem,NA
+Protriptyline,NA
+Timolol,NA
+Propranolol,NA
+Lisuride,NA
+Ergotamine,NA
+Trimipramine,NA
+Sertraline,NA
+Lithium cation,NA
+Flunarizine,NA
+ADX10059,NA
+DP-VPA,NA
+Pizotifen,NA
+Dotarizine,NA
+Tonabersat,NA
+Ubidecarenone,NA
+Dihydro-alpha-ergocryptine,NA
+Filorexant,NA
+GW-274150,NA
+Rimegepant,NA
+LY-2300559,NA
+Flumedroxone,NA
+Erenumab,NA
+Fremanezumab,NA
+Galcanezumab,NA
+Atogepant,NA
