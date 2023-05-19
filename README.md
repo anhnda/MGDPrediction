@@ -1,4 +1,5 @@
-#Gene2Drug
+# Gene2Drug
+
 ## Input-Output
 - Input: A list of gens at ./data/gene_list.txt
 
