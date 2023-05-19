@@ -20,3 +20,8 @@
     python main.py -p
 
 ```
+### Exporting predicted gene-drug scores
+```shell
+    python main.py -x
+
+```
