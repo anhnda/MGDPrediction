@@ -1,1 +1,1 @@
-p
+DEVICE="cuda:0"
