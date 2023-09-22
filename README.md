@@ -16,6 +16,9 @@
 ```
 ### Creating a dataset for prediction from a given gene list
 ```shell
+   cd wdir
+   unzip UniprotReviewedMapping2.zip
+   cd ..
    python main.py -c
 ```
 
